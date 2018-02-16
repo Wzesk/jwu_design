@@ -1,23 +1,23 @@
 # Tormach Machining Overview (This is a draft please edit)
 
-##Contents
+## Contents
 ---
 *Machine Specs
 *Standard Tool Profiles
 *3 Axis milling from Solidworks+HSM
 ---
 
-##Machine Specs
+## Machine Specs
 ---
 todo
 ---
 
-##Standard Tool Profiles
+## Standard Tool Profiles
 ---
 todo
 ---
 
-##3 Axis milling from Solidworks+HSM
+## 3 Axis milling from Solidworks+HSM
 ---
 todo
 ---
