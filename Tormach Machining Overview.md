@@ -2,9 +2,9 @@
 
 ## Contents
 ---
-*Machine Specs
-*Standard Tool Profiles
-*3 Axis milling from Solidworks+HSM
+* Machine Specs
+* Standard Tool Profiles
+* 3 Axis milling from Solidworks+HSM
 ---
 
 ## Machine Specs
